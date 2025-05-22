@@ -78,6 +78,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ELMEHDIADERAB/ELMEHDIADERAB/output/snake.svg" alt="Snake animation" />
+<pictures>
+<source media="(prefers-color-sheme: dark") srcset="https://github.com/ELMEHDIADERAB/ELMEHDIADERAB/blob/output/github-snake-dark.svg"/>
+</pictures>
 
 ###
 
