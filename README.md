@@ -13,6 +13,9 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -71,9 +74,7 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -82,19 +83,5 @@
 <source media="(prefers-color-sheme: light") srcset="https://raw.githubusercontent.com/ELMEHDIADERAB/ELMEHDIADERAB/output/github-snake.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/ELMEHDIADERAB/ELMEHDIADERAB/output/github-snake.svg"/>
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31yqfleqidzbwdwd3jxqteufrflu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yqfleqidzbwdwd3jxqteufrflu&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ELMEHDIADERAB/count.svg?"  />
-</div>
 
 ###
