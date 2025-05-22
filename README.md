@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm El Mehdi ADERAB</h1><br>
-<br><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="150"/>
+<img style="margin-top:70px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="150"/>
 <h4>I'm a final-year engineering student at EMSI and a full stack developer passionate about building secure, efficient, and user-friendly web applications.<br><br>Currently, I'm completing my end-of-studies internship at Lambda Soft, where I'm working on designing and implementing a secure architecture for an online tutoring platform using technologies like Java, Spring Boot, Angular, PostgreSQL, and AWS.<br><br>I care about writing clean, maintainable code and continuously learning about software architecture, security, and DevOps practices.  <br>Beyond code, I enjoy solving real-world problems and collaborating on meaningful projects.<br><br>Thanks for stopping by!</h4><br>
 
 
